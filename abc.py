@@ -1,3 +1,4 @@
+#this function checks if a string is an palindrome or not by recursion.
 def pali(n):
     n=str(n)
     if len(n)==1:
